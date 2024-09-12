@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Software developer focused on web development and cloud computing</h3>
-<h3 align="center">I'm currently working in Poznan Supecomputing and Networking Center as a Python Developer</h3>
-<h5 align="center">- 🌱 Recently I have been deepening my knowledge in  typescript/k8s/AWS/FastAPI</h2>
+<h3 align="center">I'm currently working at Allegro as a Junior Software Engineer</h3>
+<h5 align="center">- 🌱 Recently I have been deepening my knowledge in mongodb/k8s/FastAPI</h2>
 
 
 ## 🌐 Socials:
